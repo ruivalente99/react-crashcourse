@@ -1,2 +1,2 @@
-# react-crashcourse
+# React - Crash Course
 A simple webapp 
